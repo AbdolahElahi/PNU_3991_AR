@@ -4,7 +4,7 @@
 ------------
 - [github](https://github.com/AbdolahElahi)
 - [PNU_3991_AR](https://github.com/AbdolahElahi/PNU_3991_AR)
-- [resume]()
+- [resume](https://karboom.io/cv/dlvdbo)
 - [SOP]()
 - [patchwork]()
 - [Javascript Certification]()
