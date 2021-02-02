@@ -5,12 +5,12 @@
 - [github](https://github.com/AbdolahElahi)
 - [PNU_3991_AR](https://github.com/AbdolahElahi/PNU_3991_AR)
 - [resume](https://karboom.io/cv/dlvdbo)
-- [SOP]()
+- [SOP](https://github.com/AbdolahElahi/PNU_3991_AR/blob/main/%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87%20SOP.pdf)
 - [patchwork](https://github.com/AbdolahElahi/PNU_3991_AR/blob/main/elahi.png)
-- [Javascript Certification]()
+- [Javascript Certification](https://github.com/AbdolahElahi/PNU_3991_AR/blob/main/WhatsApp%20Image%202021-02-02%20at%205.56.09%20PM.jpeg)
 --------------------
 # # ارزیابی عمومی
-- [ارزیابی رزومه و انگیزه نامه]()
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/AbdolahElahi/PNU_3991_AR/blob/main/AE_CV_CheckList_AR_3991.pdf)
 - [ارزیابی بخش عمومی]()
 ---------------------
 ## دروس کارشناسی ارشد
